@@ -23,6 +23,7 @@ public class stringcod5 {
 		}
 		System.out.println("vowel count="+vowel);
 		System.out.println("consonant count="+cons);
+
 	}
 
 }

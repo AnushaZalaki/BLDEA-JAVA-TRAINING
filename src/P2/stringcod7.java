@@ -12,6 +12,7 @@ public class stringcod7 {
 		else {
 			System.out.println("Strings are not equal");
 		}
+
 	}
 
 }
